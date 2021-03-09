@@ -16,3 +16,11 @@ myimage@150.jpg
 myimage@320.jpg
 myimage@768.jpg
 ```
+Or, if you type 
+```
+node index.js myimage.jpg 200
+```
+returns 1 file
+```
+myimage@200.jpg
+```
